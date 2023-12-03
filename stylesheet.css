@@ -1,0 +1,18 @@
+.body{
+    background-color: rgb(8, 214, 94);
+}
+.page{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.web{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.ol{
+    list-style: none;
+}
